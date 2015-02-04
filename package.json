@@ -1,0 +1,29 @@
+{
+  "name": "has-id-selector",
+  "description": "Check to see if a CSS selector string has an id.",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/has-id-selector.git"
+  },
+  "keywords": [
+
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/has-id-selector/issues"
+  },
+  "homepage": "https://github.com/johnotander/has-id-selector",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
