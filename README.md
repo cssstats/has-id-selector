@@ -15,7 +15,8 @@ npm install --save has-id-selector
 ```javascript
 var hasIdSelector = require('has-id-selector');
 
-hasIdSelector();  // => true
+hasIdSelector('#foobar');  // => true
+hasIdSelector('.foobar');  // => false
 ```
 
 ## License

@@ -15,7 +15,9 @@
     "url": "https://github.com/johnotander/has-id-selector.git"
   },
   "keywords": [
-
+    "css",
+    "selector",
+    "id"
   ],
   "license": "MIT",
   "bugs": {

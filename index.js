@@ -5,5 +5,5 @@ module.exports = function hasIdSelector(selector) {
     throw new TypeError('has-id-selector expected a string')
   }
 
-  return true
+  return /#/.test(selector)
 }
