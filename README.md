@@ -1,6 +1,6 @@
 # has-id-selector
 
-[![Build Status](https://secure.travis-ci.org/johnotander/has-id-selector.png?branch=master)](https://travis-ci.org/johnotander/has-id-selector)
+[![Build Status](https://secure.travis-ci.org/cssstats/has-id-selector.png?branch=master)](https://travis-ci.org/cssstats/has-id-selector)
 
 Check to see if a CSS selector string has an id.
 
