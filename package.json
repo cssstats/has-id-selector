@@ -2,7 +2,7 @@
   "name": "has-id-selector",
   "description": "Check to see if a CSS selector string has an id.",
   "author": "John Otander",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
